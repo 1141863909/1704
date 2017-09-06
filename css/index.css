@@ -1,0 +1,9 @@
+*{margin: 0; padding: 0;}
+header{height: 1.3rem;background: #eeeeee;justify-content:center;display: flex;border-bottom: 1px solid #dc8c8c8;}
+header a{flex: 1;te xt-align: center;line-height: 1.3rem;}
+header .a1{color: #000;font-size: 0.45rem;}
+header .a2{color: #36ae9e;font-size: 0.42rem;margin-right: -10%;}
+.seach{height: 1.26rem;border-bottom: 1px solid #000;background: #f5f5f5;padding-top:0.18rem ;}
+.fdj{width: 80%;padding-top: ;margin:auto;border: 1px solid #ccc;height: .9rem;border-radius: 30px;line-height: 0.9rem;background:#f8f8f8;}
+.fdj img{width: 0.4rem;height: 0.42rem;margin-left: 5%;background:#f8f8f8;}
+.fdj input{border: 0;margin-left: 5%;background: #f8f8f8;}
